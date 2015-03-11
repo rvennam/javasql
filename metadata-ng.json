@@ -25,7 +25,7 @@
     "system_tags": ["ibm_created"],
     "source": {
         "scmType": "git",
-        "url": ".git",
+        "url": "https://github.com/rvennam/javasql.git",
         "appPath": "app"
     },
 	"docURL": "/#starters/javaDB/index.html#javawebdatabase",
